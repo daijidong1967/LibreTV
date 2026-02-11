@@ -23,7 +23,7 @@ const SITE_CONFIG = {
 // API站点配置
 const API_SITES = {
     testSource: {
-        api: 'https://www.fantuan.tv/api.php/provide/vod/‘,
+        api: 'https://www.fantuan.tv/api.php/provide/vod‘,
         name: '饭太硬',
         adult: true
     }
